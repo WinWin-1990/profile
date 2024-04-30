@@ -13,10 +13,5 @@ My meticulous attention to detail and strategic foresight are the bedrock upon w
 🧐 Knowledge of:
 
 tbc....
-FamilyName
-Picture
-IssuedAt
-ExpirationTime
-Locale
 
 
